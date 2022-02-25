@@ -9,7 +9,7 @@ A knowledge Base Inference Checker in python using UBCSAT solver for windows and
 
 ## Solvers
 ### Windows
-To run the script on windows you'll need the UBCSAT solver. You can download it [http://ubcsat.dtompkins.com/](here).
+To run the script on windows you'll need the UBCSAT solver. You can download it [http://ubcsat.dtompkins.com/downloads](here).
 After downloading it just place the exe in the project root
 
 ### Linux
